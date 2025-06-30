@@ -25,7 +25,7 @@ The dashboard provides clear, interactive visuals to:
 
 ## 📁 Files Included:
 
-- `Final Dashboard Insurance.xlsx` → The final dashboard in Excel
+- `Insuarance Dashboard.xlsx` → The final dashboard in Excel
 - `KPI_List.md` → Detailed list of KPIs tracked in the project
 
 ## 📌 Author:
