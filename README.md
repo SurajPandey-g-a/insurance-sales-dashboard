@@ -27,6 +27,7 @@ The dashboard provides clear, interactive visuals to:
 
 - `Insuarance Dashboard.xlsx` → The final dashboard in Excel
 - `KPI_List.md` → Detailed list of KPIs tracked in the project
+- `Insuarance sales dashboard.png` - Screenshot of dashboard
 
 ## 📌 Author:
 Suraj Pandey
